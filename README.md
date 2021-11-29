@@ -5,6 +5,4 @@ Link to the government tourist spots api for users to collect their favorite spo
 
 **Language: React-Native** 
 
-![image](https://github.com/dorahs71/Have-Fun-App/blob/main/assets/HaveFun.gif)
-
-
+<img src="https://github.com/dorahs71/Have-Fun-App/blob/main/assets/HaveFun.gif" alt="gif" width="50%"/>
